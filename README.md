@@ -1,4 +1,4 @@
-# defileap
+# Defi Leap
 # Sobre o Projeto:
 "DeFi Leap" é uma solução de empréstimos DeFi construída sobre a blockchain da Solana, destinada a facilitar o acesso a serviços financeiros para a população desbancarizada. Através de uma interface amigável e um sistema de empréstimos sem colaterais, visamos eliminar as barreiras tradicionais do sistema financeiro.
 
