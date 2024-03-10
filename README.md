@@ -47,6 +47,6 @@ We are open to contributions! If you are interested in improving the "DeFi Leap"
 Distributed under the MIT License. See LICENSE for more information.
 
 # Contact:
-For questions or partnerships, please contact us atluiz23brazil@proton.me.
+For questions or partnerships, please contact us at luiz23brazil@proton.me.
 
 Este README fornece todas as informações necessárias para entender, começar e contribuir com o projeto "DeFi Leap", tanto para participantes do hackathon Solana nacional quanto global, promovendo transparência e colaboração.
